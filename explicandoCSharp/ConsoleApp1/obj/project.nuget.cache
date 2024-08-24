@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAvEzThKrsngZG7ZrWUXAeGBYlKYh1aQivrLs++z2vyh0RvAMBQ1M0xlU+VyFyl8smiBb2JF0478Kgpy0d2drA==",
+  "success": true,
+  "projectFilePath": "/home/std/Documentos/onlineEstudos/dotnet/csharp/explicandoCSharp/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/std/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
